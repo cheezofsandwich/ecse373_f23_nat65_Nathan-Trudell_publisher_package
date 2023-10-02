@@ -1,0 +1,4 @@
+# Typical Backup File patterns
+*~	# Anything that ends in a tilde
+\#*#	# Anything that begins or ends with a hash
+*.bak	# Anything that ends with the extension '.bak'
